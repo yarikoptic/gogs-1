@@ -1,4 +1,5 @@
 [codespell]
-skip = .git,*.pdf,*.svg,*.min.js,plugins,locale,*.min.css.map,license
-#
-ignore-words-list = unknwon
+skip = .git,*.pdf,*.svg,*.js,plugins,locale,*.min.css*,license
+# unknwon - name
+# poping - used broadly
+ignore-words-list = unknwon,poping
