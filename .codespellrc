@@ -1,5 +1,7 @@
 [codespell]
 skip = .git,*.pdf,*.svg,*.js,plugins,locale,*.min.css*,license
+ignore-regex = Leve e rápido
 # unknwon - name
 # poping - used broadly
-ignore-words-list = unknwon,poping
+# oder - from German
+ignore-words-list = unknwon,poping,oder,readby,hastable,expport
