@@ -1,4 +1,4 @@
 [codespell]
-skip = .git,*.pdf,*.svg,*.min.js,plugins,locale
+skip = .git,*.pdf,*.svg,*.min.js,plugins,locale,*.min.css.map,license
 #
 ignore-words-list = unknwon
