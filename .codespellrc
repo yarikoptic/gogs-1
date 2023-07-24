@@ -1,6 +1,6 @@
 [codespell]
 skip = .git,*.pdf,*.svg,*.js,plugins,locale,*.min.css*,license,conf
-ignore-regex = Leve e rápido
+ignore-regex = (Leve e rápido|gogs\.io/unknwon/upsteam)
 # unknwon - name
 # poping - used broadly
 # oder - from German
