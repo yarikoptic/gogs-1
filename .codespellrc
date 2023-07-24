@@ -1,5 +1,5 @@
 [codespell]
-skip = .git,*.pdf,*.svg,*.js,plugins,locale,*.min.css*,license
+skip = .git,*.pdf,*.svg,*.js,plugins,locale,*.min.css*,license,conf
 ignore-regex = Leve e rápido
 # unknwon - name
 # poping - used broadly
