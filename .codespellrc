@@ -1,7 +1,8 @@
 [codespell]
-skip = .git,*.pdf,*.svg,*.js,plugins,locale,*.min.css*,license,conf
+# Ignore entire home.tmpl since has other languages
+skip = .git,*.pdf,*.svg,*.js,plugins,locale,*.min.css*,license,conf,home.tmpl
 ignore-regex = (Leve e rápido|gogs\.io/unknwon/upsteam)
 # unknwon - name
 # poping - used broadly
 # oder - from German
-ignore-words-list = unknwon,poping,oder,readby,hastable,expport
+ignore-words-list = unknwon,poping,oder,readby,hastable,expport,followings
